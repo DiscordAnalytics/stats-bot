@@ -1,0 +1,11 @@
+{
+  "title": "About {{username}}",
+  "infos": {
+    "name": "Informations",
+    "value": "> **Developer:** [`nolhan__`](https://nolhan.dev)"
+  },
+  "stats": {
+    "name": "Stats",
+    "value": "> **Cached Guilds Count:** `{{guilds}}`\n> **Cached Users Count:** `{{users}}`"
+  }
+}
